@@ -4,3 +4,5 @@ experiment with amend
 new data
 new data 1
 new data 2
+I love Hexlet!
+Something important!
